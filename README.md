@@ -1,4 +1,4 @@
 *# programación web 2021II*
-temas de la asignatura
-
-1. Sistema control de versiones
+Esteban Javier De Leon Martinez
+estebanleonjm@unimagdalena.edu.co
+201821400
